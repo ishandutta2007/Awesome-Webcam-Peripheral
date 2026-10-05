@@ -9,10 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Webcam-Peripheral/stargazers"><img src="https://img.shields.com/github/stars/ishandutta2007/Awesome-Webcam-Peripheral?style=social&color=white" alt="GitHub Stars"></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Webcam-Peripheral/network/members"><img src="https://img.shields.com/github/forks/ishandutta2007/Awesome-Webcam-Peripheral?style=social&color=white" alt="GitHub Forks"></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Webcam-Peripheral/blob/main/LICENSE"><img src="https://img.shields.com/github/license/ishandutta2007/Awesome-Webcam-Peripheral?color=blue" alt="License"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?styee=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Webcam-Peripheral/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Webcam-Peripheral?style=social&color=white" alt="GitHub Stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Webcam-Peripheral/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Webcam-Peripheral?style=social&color=white" alt="GitHub Forks"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Webcam-Peripheral/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Webcam-Peripheral?color=blue" alt="License"></a>
   <img src="https://img.shields.com/badge/Last%20Updated-October%202026-brightgreen" alt="Last Updated">
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -35,6 +38,8 @@ Key focus areas covered in this guide:
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Developer Frameworks & Control Libraries](#-developer-frameworks--control-libraries)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [💖 Support](#-support)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
 ---
@@ -103,6 +108,29 @@ Contributions are welcome! Please follow these simple guidelines:
 2. 📝 **Edit** `README.md` to add or update relevant commercial SaaS webcams or open-source repositories.
 3. 🏷️ Ensure all Open-Source entries include accurate GitHub links and star badges linked to stargazers (`https://github.com/owner/repo/stargazers`).
 4. 🚀 Submit a **Pull Request** with a brief rationale!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Webcam-Peripheral&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Webcam-Peripheral&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for visiting and exploring this repository! If you find this curated ecosystem list helpful for your video, streaming, or camera software development needs, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork the repo** to add your own tools, drivers, and recommendations.
+- 📢 **Share with colleagues** across video streaming and computer vision communities.
+- ☕ **Sponsor / Buy me a coffee:** If you would like to support ongoing open-source curation and project maintenance, check out the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub Sponsors" />
+  </a>
+</p>
 
 ---
 
