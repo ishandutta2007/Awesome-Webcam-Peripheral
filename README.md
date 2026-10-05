@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?styee=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Webcam-Peripheral/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Webcam-Peripheral?style=social&color=white" alt="GitHub Stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Webcam-Peripheral/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Webcam-Peripheral?style=social&color=white" alt="GitHub_Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Webcam-Peripheral/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Webcam-Peripheral?style=social&color=white" alt="GitHub Forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Webcam-Peripheral/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Webcam-Peripheral?color=blue" alt="License"></a>
   <img src="https://img.shields.com/badge/Last%20Updated-October%202026-brightgreen" alt="Last Updated">
@@ -67,9 +67,9 @@ The table below details category-leading commercial products and hardware softwa
 
 ## 🔓 Open-Source GitHub Projects
 
-Open-source software forms the core backbone of virtual video processing, kernel loopback drivers, and hardware control. The table below lists top open-source repositories, **sorted strictly by GitHub star count (descending)**:
+Open-source software forms the core backbone of virtual video processing, kernel loopback drivers, and hardware control. The table below lists top open-source repositories, **sorted strictly by GitHub Stars_Count (descending)**:
 
-| 📦 Repository | ⭐ Star Count | 💻 Main Language | ⚡ Primary Function & Capabilities | 🖥️ Supported OS |
+| 📦 Repository | ⭐ Stars_Count | 💻 Main Language | ⚡ Primary Function & Capabilities | 🖥️ Supported OS |
 | :--- | :--- | :--- | :--- | :--- |
 | **[obsproject/obs-studio](https://github.com/obsproject/obs-studio)** | [![Stars](https://img.shields.com/github/stars/obsproject/obs-studio?style=social&color=white)](https://github.com/obsproject/obs-studio/stargazers) | C / C++ | Industry-standard video capture, composition, live streaming suite, and native virtual camera output | Windows, macOS, Linux |
 | **[umlaeute/v4l2loopback](https://github.com/umlaeute/v4l2loopback)** | [![Stars](https://img.shields.com/github/stars/umlaeute/v4l2loopback?style=social&color=white)](https://github.com/umlaeute/v4l2loopback/stargazers) | C | Universal kernel module for Linux to create virtual V4L2 video devices | Linux |
@@ -106,7 +106,7 @@ If you are developing custom video applications, virtual camera integrations, or
 Contributions are welcome! Please follow these simple guidelines:
 1. 🍴 **Fork** the repository.
 2. 📝 **Edit** `README.md` to add or update relevant commercial SaaS webcams or open-source repositories.
-3. 🏷️ Ensure all Open-Source entries include accurate GitHub links and star badges linked to stargazers (`https://github.com/owner/repo/stargazers`).
+3. 🏷️ Ensure all Open-Source entries include accurate GitHub links and Stars_Badges linked to stargazers (`https://github.com/owner/repo/stargazers`).
 4. 🚀 Submit a **Pull Request** with a brief rationale!
 
 ---
